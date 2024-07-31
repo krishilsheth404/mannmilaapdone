@@ -1,0 +1,9 @@
+input{
+    padding:5px;
+    /* background-color: black; */
+    border-radius: 5px;
+}
+
+label{
+    padding: 5px;
+}
